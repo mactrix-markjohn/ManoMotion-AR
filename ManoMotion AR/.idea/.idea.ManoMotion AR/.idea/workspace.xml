@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="170dd10d-c49d-46ff-aecf-a745ef8b5b1c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InteractionScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="65" column="117" selection-start-line="65" selection-start-column="117" selection-end-line="65" selection-end-column="117" />
+              <folding>
+                <marker date="1648726789192" expanded="true" signature="6:140" ph="..." />
+                <marker date="1648726789192" expanded="true" signature="188:2979" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="414:778" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="593:678" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="836:976" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="905:970" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="1013:2224" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="1488:2207" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="1956:2040" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="2298:2977" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="2562:2971" ph="{...}" />
+                <marker date="1648726789192" expanded="true" signature="2751:2958" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VaultHill Projects/vh-maze/MazeAR/Assets/Scripts/WelcomeSceneScripts/WelcomeScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="118" column="5" selection-start-line="101" selection-start-column="4" selection-end-line="118" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimedObjectDestructor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1648653690875" expanded="false" signature="6:92" ph="..." />
+                <marker date="1648653690875" expanded="true" signature="144:466" ph="{...}" />
+                <marker date="1648653690875" expanded="true" signature="247:297" ph="{...}" />
+                <marker date="1648653690875" expanded="true" signature="321:459" ph="{...}" />
+                <marker date="1648653690875" expanded="true" signature="355:415" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/ApplicationIntro/HowToInstructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ManoMotion ARFoundation/Scripts/InputManagerArFoundation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/ManoVisualization/ManoVisualization.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/ApplicationIntro/RunTimeApplication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/MainMenu/PrivacyPolicyDisclaimair.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/MainMenu/ManomotionUIManagment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/ApplicationIntro/ApplicationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimedObjectDestructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../VaultHill Projects/vh-maze/MazeAR/Assets/Scripts/WelcomeSceneScripts/WelcomeScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/Util Tools/ManoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="170dd10d-c49d-46ff-aecf-a745ef8b5b1c" name="Default Changelist" comment="" />
+      <created>1647876883257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647876883257</updated>
+      <workItem from="1647876981252" duration="3195000" />
+      <workItem from="1648650825371" duration="1950000" />
+      <workItem from="1648716437517" duration="3056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8201000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945135" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/ManoVisualization/ManoVisualization.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1622558065000" expanded="true" signature="6:80" ph="..." />
+            <marker date="1622558065000" expanded="true" signature="179:1849" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="232:441" ph="variables" />
+            <marker date="1622558065000" expanded="true" signature="301:374" ph="/* [SerializeField] ... */" />
+            <marker date="1622558065000" expanded="true" signature="447:1049" ph="Initializing Components" />
+            <marker date="1622558065000" expanded="true" signature="496:729" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="735:946" ph="/// Set the maximum number of hands that can be simultaneously detected by Manomotion Manager based on the licenc ... " />
+            <marker date="1622558065000" expanded="true" signature="984:1033" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1055:1106" ph="/// Setting up ... " />
+            <marker date="1622558065000" expanded="true" signature="1151:1527" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1289:1521" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1533:1708" ph="/// Toggles the visibility of the given gameobject ... " />
+            <marker date="1622558065000" expanded="true" signature="1772:1847" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/MainMenu/ManomotionUIManagment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <marker date="1622195196000" expanded="false" signature="6:54" ph="..." />
+            <marker date="1622195196000" expanded="true" signature="56:131" ph="/// Handles the UI, FPS, version, licence etc. ... " />
+            <marker date="1622195196000" expanded="true" signature="182:3935" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="620:960" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="657:755" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="966:1091" ph="/// Displays information from the ManoMotion Manager after the frame has been processed. ... " />
+            <marker date="1622195196000" expanded="true" signature="1148:1217" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="1223:1367" ph="/// Toggles the visibility of a Gameobject. ... " />
+            <marker date="1622195196000" expanded="true" signature="1423:1498" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="1504:1612" ph="/// Updates the text field with the calculated Frames Per Second value. ... " />
+            <marker date="1622195196000" expanded="true" signature="1644:1727" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="1733:1839" ph="/// Updates the text field with the calculated processing time value. ... " />
+            <marker date="1622195196000" expanded="true" signature="1878:1992" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="1998:2095" ph="/// Toggles the visibility of Showing the licenseInformation ... " />
+            <marker date="1622195196000" expanded="true" signature="2135:3087" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="2271:3081" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="2800:3014" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="2888:3000" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="3093:3171" ph="/// Shows the current version of the SDK. ... " />
+            <marker date="1622195196000" expanded="true" signature="3224:3933" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="3486:3587" ph="{...}" />
+            <marker date="1622195196000" expanded="true" signature="3632:3814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ManoMotion ARFoundation/Scripts/InputManagerArFoundation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding>
+            <marker date="1622558064000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1622558064000" expanded="true" signature="130:6982" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="137:605" ph="Fields" />
+            <marker date="1622558064000" expanded="true" signature="611:2215" ph="Initialization" />
+            <marker date="1622558064000" expanded="true" signature="659:1079" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1137:1315" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1341:1390" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1396:1469" ph="/// Initializes the Input Parameters ... " />
+            <marker date="1622558064000" expanded="true" signature="1525:2199" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2030:2096" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2129:2193" ph="{...}" />
+            <marker date="1622558064000" expanded="false" signature="2221:5177" ph="Methods" />
+            <marker date="1622558064000" expanded="true" signature="2242:2454" ph="/// Responds to a change in the orientation of a phone. ... " />
+            <marker date="1622558064000" expanded="true" signature="2490:2600" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2606:2830" ph="/// Calls the main methods of resizing the RenderTexture (Camera Clone) and Texture2D (Visual information). ... " />
+            <marker date="1622558064000" expanded="true" signature="2854:3829" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2915:3635" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3761:3823" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3835:4082" ph="/// Resizes the dimensions of the Render Texture that is used to get the image colors from ARFoundation. ... " />
+            <marker date="1622558064000" expanded="true" signature="4139:4319" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4185:4247" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4325:4640" ph="/// Resizes the Texture2D information used in the ManoMotionFrame. ... " />
+            <marker date="1622558064000" expanded="true" signature="4710:5161" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4833:4905" ph="{...}" />
+            <marker date="1622558064000" expanded="false" signature="5183:6402" ph="Update" />
+            <marker date="1622558064000" expanded="true" signature="5228:5267" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5273:5393" ph="/// Updates the frame information at every frame by cloning the screen information. ... " />
+            <marker date="1622558064000" expanded="true" signature="5428:6386" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5483:5591" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5831:6099" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6318:6380" ph="{...}" />
+            <marker date="1622558064000" expanded="false" signature="6408:6980" ph="Application on Background" />
+            <marker date="1622558064000" expanded="true" signature="6447:6562" ph="/// Stop the ManoMotion processing when application is put to background mode. ... " />
+            <marker date="1622558064000" expanded="true" signature="6634:6775" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6692:6769" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6822:6965" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6882:6959" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/ApplicationIntro/ApplicationManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <marker date="1622558064000" expanded="false" signature="6:209" ph="..." />
+            <marker date="1622558064000" expanded="true" signature="257:3450" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="354:428" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="372:422" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="593:858" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="623:673" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="686:820" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="864:975" ph="/// Initializes the components needed in order to operate the application. ... " />
+            <marker date="1622558064000" expanded="true" signature="1007:2124" ph="{...}" />
+            <marker date="1622558064000" expanded="false" signature="1022:1364" ph="Privacy Policy" />
+            <marker date="1622558064000" expanded="true" signature="1057:1153" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1182:1262" ph="{...}" />
+            <marker date="1622558064000" expanded="false" signature="1374:1788" ph="Instructions" />
+            <marker date="1622558064000" expanded="true" signature="1407:1496" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1525:1598" ph="{...}" />
+            <marker date="1622558064000" expanded="false" signature="1798:2118" ph="RunTimeApplication" />
+            <marker date="1622558064000" expanded="true" signature="1837:1931" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1960:2039" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2150:2213" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2219:2296" ph="/// Handles the privacy policy accepted. ... " />
+            <marker date="1622558064000" expanded="true" signature="2335:2505" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2511:2644" ph="/// Forces the instructions to be seen even if seen in the past. Used from within the main menu. ... " />
+            <marker date="1622558064000" expanded="true" signature="2680:2912" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2918:3044" ph="/// Handles the logic and what happens after the player has seen all of the instructions. ... " />
+            <marker date="1622558064000" expanded="true" signature="3087:3169" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3175:3351" ph="/// Handles the logic and what happens after the player has skipped the instructions. For now it calls the same m ... " />
+            <marker date="1622558064000" expanded="true" signature="3393:3448" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/MainMenu/PrivacyPolicyDisclaimair.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1618239537000" expanded="false" signature="6:84" ph="..." />
+            <marker date="1618239537000" expanded="true" signature="123:3870" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="183:3868" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="221:316" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="571:772" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="637:723" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="782:864" ph="/// Initializes the usage disclaimer. ... " />
+            <marker date="1618239537000" expanded="true" signature="912:1344" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1015:1110" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1186:1252" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1269:1334" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1354:1545" ph="/// Checks the PlayerPrefs for the record that keeps track of the user approval on privacy policy and and initial ... " />
+            <marker date="1618239537000" expanded="true" signature="1583:2337" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1648:2155" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1821:1901" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="1922:2141" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="2172:2327" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="2347:2455" ph="/// Opens a webpage and displays the privacy policy information ... " />
+            <marker date="1618239537000" expanded="true" signature="2501:2648" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="2658:2803" ph="/// Approves the privacy policy conditions and sets the value in PlayerPrefs so it wont start again. ... " />
+            <marker date="1618239537000" expanded="true" signature="2846:3395" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="3153:3290" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="3307:3385" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="3405:3499" ph="/// It stops displaying the Privacy Policy Canvas ... " />
+            <marker date="1618239537000" expanded="true" signature="3533:3603" ph="{...}" />
+            <marker date="1618239537000" expanded="true" signature="3613:3760" ph="/// Opens the privacy policy to display the visual information of the canvas regarding privacy policy. ... " />
+            <marker date="1618239537000" expanded="true" signature="3793:3862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/ApplicationIntro/HowToInstructor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1622558064000" expanded="false" signature="6:114" ph="..." />
+            <marker date="1622558064000" expanded="true" signature="144:11850" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="195:11848" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="239:308" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1339:1402" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1454:1517" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1561:1888" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1724:1788" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1805:1878" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1937:5245" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2035:2358" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2131:2230" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2267:2343" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2463:2779" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2497:2657" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2694:2765" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2829:3205" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2863:3078" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3115:3191" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3246:3610" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3280:3483" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3520:3596" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3649:4012" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3683:3885" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3922:3998" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4052:4412" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4086:4285" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4322:4398" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4449:4720" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4483:4598" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4635:4706" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4816:4955" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5255:5341" ph="/// Progresses the with next instruction. ... " />
+            <marker date="1622558064000" expanded="true" signature="5392:5572" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5582:5654" ph="/// Skips the instructions. ... " />
+            <marker date="1622558064000" expanded="true" signature="5693:5902" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5912:5991" ph="/// Confirms the instruction seen. ... " />
+            <marker date="1622558064000" expanded="true" signature="6036:6711" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6297:6529" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6588:6701" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6721:6864" ph="/// Shoulds the display card. ... " />
+            <marker date="1622558064000" expanded="true" signature="6907:6979" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6989:7140" ph="/// Shoulds the display instructions. ... " />
+            <marker date="1622558064000" expanded="true" signature="7191:7479" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7489:7562" ph="/// Places the text on card. ... " />
+            <marker date="1622558064000" expanded="true" signature="7600:7912" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7668:7902" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7922:8017" ph="/// Illustrates the current instruction on canvas. ... " />
+            <marker date="1622558064000" expanded="true" signature="8069:8238" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8248:8389" ph="/// Updates the current instruction step on canvas. ... " />
+            <marker date="1622558064000" expanded="true" signature="8459:8573" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8664:8752" ph="/// Highlights the instructions background. ... " />
+            <marker date="1622558064000" expanded="true" signature="8799:8919" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8929:9013" ph="/// Handles the instructions highlight. ... " />
+            <marker date="1622558064000" expanded="true" signature="9056:9557" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9099:9547" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9194:9431" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9452:9533" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9567:9752" ph="/// Ares all instruction finished. ... " />
+            <marker date="1622558064000" expanded="true" signature="9801:10055" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9869:10019" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9935:10005" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10065:10154" ph="/// Shows the current instruction on canvas. ... " />
+            <marker date="1622558064000" expanded="true" signature="10207:10469" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10535:10612" ph="/// Highlights the confirmation. ... " />
+            <marker date="1622558064000" expanded="true" signature="10656:10938" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10712:10839" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10948:11027" ph="/// Dehighlights the confirmation. ... " />
+            <marker date="1622558064000" expanded="true" signature="11074:11325" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11130:11257" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11335:11415" ph="/// Closes the how to instructions. ... " />
+            <marker date="1622558064000" expanded="true" signature="11460:11522" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11532:11693" ph="/// Shoulds the show trigger animation visuals. ... " />
+            <marker date="1622558064000" expanded="true" signature="11759:11842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/ApplicationIntro/RunTimeApplication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1622558064000" expanded="false" signature="6:148" ph="..." />
+            <marker date="1622558064000" expanded="true" signature="178:27447" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="232:27445" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="1992:4736" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2038:2380" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2072:2220" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2257:2366" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2412:2733" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2446:2578" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2615:2719" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2769:3070" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2803:2915" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="2952:3056" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3112:3414" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3146:3258" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3295:3400" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3446:3746" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3480:3588" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3625:3732" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3783:4120" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="3817:3965" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4002:4106" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4480:4582" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4599:4684" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="4746:4828" ph="/// Hides the application components. ... " />
+            <marker date="1622558064000" expanded="true" signature="4876:5131" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5141:5220" ph="/// Sets the menu icon visibility. ... " />
+            <marker date="1622558064000" expanded="true" signature="5264:5592" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5316:5480" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5497:5582" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5602:5742" ph="/// Sets the Grab Release Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="5800:5986" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5849:5922" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="5997:6138" ph="/// Sets the Pick and Drop Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="6193:6376" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6242:6315" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6387:6521" ph="/// Sets the Swipes Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="6574:6755" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6623:6696" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="6766:6911" ph="/// Sets the Wrist Information Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="6967:7212" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7016:7089" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7222:7368" ph="/// Sets the Finger Information Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="7425:7672" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7474:7547" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7682:7817" ph="/// Sets the Contour Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="7871:8112" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="7920:7993" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8122:8302" ph="/// Sets the Pick Trigger Gesture Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="8353:8546" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8402:8475" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8556:8736" ph="/// Sets the Drop Trigger Gesture Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="8787:8980" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8836:8909" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="8990:9132" ph="/// Sets the Swipe Vertical Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="9192:9394" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9241:9314" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9404:9548" ph="/// Sets the Swipe Horizontal Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="9610:9814" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9659:9732" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="9824:10005" ph="/// Sets the Click Trigger Gesture Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="10057:10251" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10106:10179" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10261:10441" ph="/// Sets the Grab Trigger Gesture Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="10492:10685" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10541:10614" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10695:10878" ph="/// Sets the Release Trigger Gesture Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="10932:11128" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="10981:11054" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11138:11282" ph="/// Sets the Gesture Analysis Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="11344:11534" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11393:11466" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11544:11718" ph="/// Sets the Show hand side Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="11773:11956" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11822:11895" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="11966:12140" ph="/// Sets the Show Manoclass Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="12196:12380" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="12245:12318" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="12390:12573" ph="/// Sets the Show Continuous Gesture Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="12636:12829" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="12685:12758" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="12839:13012" ph="/// Sets the Show Warnings Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="13067:13250" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="13116:13189" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="13260:13436" ph="/// Sets the Show hand states Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="13493:13678" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="13542:13615" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="13688:13869" ph="/// Sets the Show smoothing slider Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="13931:14121" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="13980:14053" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="14131:14312" ph="/// Sets the Show depth estimation Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="14364:14554" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="14413:14486" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="14564:14740" ph="/// Sets the Show skeleton 3d Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="14797:15051" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="14846:14919" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="15061:15234" ph="/// Sets the Show Gestures Visualization condition. ... " />
+            <marker date="1622558064000" expanded="true" signature="15289:15538" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="15338:15411" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="15548:15708" ph="/// Decide if to run Fast mode or not. ... " />
+            <marker date="1622558064000" expanded="true" signature="15756:15995" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="15805:15878" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="16005:16303" ph="/// Sets the visibility of the ManoMotion components and the Terms and conditions canvas based on the criterion o ... " />
+            <marker date="1622558064000" expanded="true" signature="16366:16529" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="16435:16519" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="16539:16638" ph="/// Starts the main application with default settings. ... " />
+            <marker date="1622558064000" expanded="true" signature="16700:17119" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="17129:17210" ph="/// Disables the mano motion gizmos. ... " />
+            <marker date="1622558064000" expanded="true" signature="17257:17927" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="17937:18027" ph="/// Saves the ManoMotion features to display. ... " />
+            <marker date="1622558064000" expanded="true" signature="18078:23328" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="19735:19855" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="19887:19998" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20029:20143" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20173:20286" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20326:20441" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20471:20584" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20621:20735" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20772:20882" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="20922:21038" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="21078:21194" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="21235:21352" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="21403:21530" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="21579:21704" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="21744:21860" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="21903:22022" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22054:22169" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22199:22312" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22341:22454" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22485:22599" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22631:22746" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22775:22887" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="22920:23036" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="23066:23179" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="23207:23318" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="23338:23428" ph="/// Sets the mano motion features to display. ... " />
+            <marker date="1622558064000" expanded="true" signature="23489:24242" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="24252:24322" ph="/// Enables all triggers. ... " />
+            <marker date="1622558064000" expanded="true" signature="24355:24569" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="24579:24723" ph="/// Gets the default list of features. ... " />
+            <marker date="1622558064000" expanded="true" signature="24804:25669" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="24863:25618" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="25679:25780" ph="/// Disables all triggers from displaying in the screen. ... " />
+            <marker date="1622558064000" expanded="true" signature="25821:25995" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="26005:26133" ph="/// Disables all trigers except. ... " />
+            <marker date="1622558064000" expanded="true" signature="26205:27439" ph="{...}" />
+            <marker date="1622558064000" expanded="true" signature="26279:27429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manomotion/Scripts/Util Tools/ManoEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1622558065000" expanded="true" signature="6:100" ph="..." />
+            <marker date="1622558065000" expanded="true" signature="147:227" ph="/// Gives information about the license being used. ... " />
+            <marker date="1622558065000" expanded="true" signature="311:4950" ph="{...}" />
+            <marker date="1622558065000" expanded="false" signature="315:499" ph="Singleton" />
+            <marker date="1622558065000" expanded="true" signature="408:486" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="417:446" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="453:483" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="502:585" ph="/// Animator thats used to display license messages. ... " />
+            <marker date="1622558065000" expanded="true" signature="640:728" ph="/// Animator thats used to display lowPowerMode messages. ... " />
+            <marker date="1622558065000" expanded="true" signature="841:998" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="862:891" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="898:995" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1014:1369" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1040:1234" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1372:1509" ph="/// Interprets the message from the Manomotion Manager class and assigns a string message to be displayed. ... " />
+            <marker date="1622558065000" expanded="true" signature="1542:2937" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="1611:2934" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="2940:3102" ph="/// Displays Log messages from the Manomotion Flags  ... " />
+            <marker date="1622558065000" expanded="true" signature="3142:3344" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="3168:3243" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="3406:3520" ph="/* Displays Log messages to notify user that LowPowerMode is enabled on the phone. ... */" />
+            <marker date="1622558065000" expanded="true" signature="3949:4064" ph="/// Displays Log messages to notify user that PawerSaveMode is enabled on the phone. ... " />
+            <marker date="1622558065000" expanded="true" signature="4095:4464" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="4222:4329" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="4420:4461" ph="{...}" />
+            <marker date="1622558065000" expanded="true" signature="4475:4627" ph="/// Displays the message about LowPowerMode enabled 3 times. ... " />
+            <marker date="1622558065000" expanded="true" signature="4683:4948" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimedObjectDestructor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1648653690875" expanded="false" signature="6:92" ph="..." />
+            <marker date="1648653690875" expanded="true" signature="144:466" ph="{...}" />
+            <marker date="1648653690875" expanded="true" signature="247:297" ph="{...}" />
+            <marker date="1648653690875" expanded="true" signature="321:459" ph="{...}" />
+            <marker date="1648653690875" expanded="true" signature="355:415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VaultHill Projects/vh-maze/MazeAR/Assets/Scripts/WelcomeSceneScripts/WelcomeScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="118" column="5" selection-start-line="101" selection-start-column="4" selection-end-line="118" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InteractionScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="65" column="117" selection-start-line="65" selection-start-column="117" selection-end-line="65" selection-end-column="117" />
+          <folding>
+            <marker date="1648726789192" expanded="true" signature="6:140" ph="..." />
+            <marker date="1648726789192" expanded="true" signature="188:2979" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="414:778" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="593:678" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="836:976" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="905:970" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="1013:2224" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="1488:2207" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="1956:2040" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="2298:2977" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="2562:2971" ph="{...}" />
+            <marker date="1648726789192" expanded="true" signature="2751:2958" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

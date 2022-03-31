@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Chukwuemeka\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Chukwuemeka\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ManoMotion AR.-649006769.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\ManoMotion AR" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="EditorScripts.cs" t="Include" />
+          <e p="ManoMotionSetup.cs" t="Include" />
+        </e>
+        <e p="Manomotion" t="Include">
+          <e p="ApplicationIntro" t="Include">
+            <e p="ApplicationManager.cs" t="Include" />
+            <e p="HowToAnimations.cs" t="Include" />
+            <e p="HowToInstructor.cs" t="Include" />
+            <e p="InstructionManoVisualization.cs" t="Include" />
+            <e p="Instructions" t="Include">
+              <e p="DetectionInstruction.cs" t="Include" />
+              <e p="GestureInstruction.cs" t="Include" />
+              <e p="HandSideInstruction.cs" t="Include" />
+              <e p="Instruction.cs" t="Include" />
+              <e p="InstructionVisualization.cs" t="Include" />
+              <e p="StartApplicationInstruction.cs" t="Include" />
+            </e>
+            <e p="RunTimeApplication.cs" t="Include" />
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="montserrat" t="Include">
+              <e p="SIL Open Font License.txt" t="Include" />
+            </e>
+            <e p="sofiapro" t="Include">
+              <e p="Licenses" t="Include">
+                <e p="Desktop EULA 1.6.txt" t="Include" />
+              </e>
+              <e p="Reference" t="Include">
+                <e p="Release Notes.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Data Structure" t="Include">
+              <e p="BoundingBoxUIInner.cs" t="Include" />
+              <e p="FingerInfo.cs" t="Include" />
+              <e p="GestureInfo.cs" t="Include" />
+              <e p="HandInfo.cs" t="Include" />
+              <e p="HandInfoUnity.cs" t="Include" />
+              <e p="ManoLicense.cs" t="Include" />
+              <e p="ManomotionBase.cs" t="Include" />
+              <e p="ManoMotionFrame.cs" t="Include" />
+              <e p="ManomotionManager.cs" t="Include" />
+              <e p="ManoSettings.cs" t="Include" />
+              <e p="Session.cs" t="Include" />
+              <e p="SkeletonInfo.cs" t="Include" />
+              <e p="TrackingInfo.cs" t="Include" />
+              <e p="VisualizationInfo.cs" t="Include" />
+              <e p="WristInfo.cs" t="Include" />
+            </e>
+            <e p="Gizmos" t="Include">
+              <e p="ContourGizmo.cs" t="Include" />
+              <e p="FingerInfoGizmo.cs" t="Include" />
+              <e p="GizmoManager.cs" t="Include" />
+              <e p="TriggerGizmo.cs" t="Include" />
+              <e p="TryOnLine.cs" t="Include" />
+              <e p="WristInfoGizmo.cs" t="Include" />
+            </e>
+            <e p="MainMenu" t="Include">
+              <e p="Category.cs" t="Include" />
+              <e p="CategoryManager.cs" t="Include" />
+              <e p="IconMainMenu.cs" t="Include" />
+              <e p="ManomotionUIManagment.cs" t="Include" />
+              <e p="MenuButton.cs" t="Include" />
+              <e p="PrivacyPolicyDisclaimair.cs" t="Include" />
+              <e p="ToggleGizmos.cs" t="Include" />
+              <e p="UIIconBehavior.cs" t="Include" />
+            </e>
+            <e p="ManoVisualization" t="Include">
+              <e p="BoundingBox.cs" t="Include" />
+              <e p="BoundingBoxUI.cs" t="Include" />
+              <e p="InputManagerBaseClass.cs" t="Include" />
+              <e p="InputManagerPhoneCamera.cs" t="Include" />
+              <e p="ManoVisualization.cs" t="Include" />
+              <e p="ToggleVisualizationValues.cs" t="Include" />
+            </e>
+            <e p="Util Tools" t="Include">
+              <e p="ManoEvents.cs" t="Include" />
+              <e p="ManoUtils.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UIBlurEffect" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="BWEffect.cs" t="Include" />
+              <e p="GrabPass.cs" t="Include" />
+              <e p="Grayscale.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="GrabPass.shader" t="Include" />
+              <e p="Grayscale.shader" t="Include" />
+              <e p="Post.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ManoMotion ARFoundation" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Inetraction" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="ARCubeInteraction.cs" t="Include" />
+                <e p="HandCollider.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="ExampleDetectionCanvas.cs" t="Include" />
+            <e p="InputManagerArFoundation.cs" t="Include" />
+            <e p="ScanForSurface.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ManoMotion Skeleton" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DrawLineBetweenJoints.cs" t="Include" />
+            <e p="SkeletonManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Modern UI Pack" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="Documentation.txt" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ButtonManagerBasicEditor.cs" t="Include" />
+              <e p="ButtonManagerBasicIconEditor.cs" t="Include" />
+              <e p="ButtonManagerBasicWithIconEditor.cs" t="Include" />
+              <e p="ButtonManagerEditor.cs" t="Include" />
+              <e p="ButtonManagerIconEditor.cs" t="Include" />
+              <e p="ButtonManagerWithIconEditor.cs" t="Include" />
+              <e p="ContextMenu.cs" t="Include" />
+              <e p="ContextMenuManagerEditor.cs" t="Include" />
+              <e p="CustomDropdownEditor.cs" t="Include" />
+              <e p="DropdownMultiSelectEditor.cs" t="Include" />
+              <e p="ExtendedColorPicker.cs" t="Include" />
+              <e p="HorizontalSelectorEditor.cs" t="Include" />
+              <e p="InitMUIP.cs" t="Include" />
+              <e p="ModalWindowManagerEditor.cs" t="Include" />
+              <e p="NotificationManagerEditor.cs" t="Include" />
+              <e p="PieChartEditor.cs" t="Include" />
+              <e p="ProgressBarEditor.cs" t="Include" />
+              <e p="RadialSliderEditor.cs" t="Include" />
+              <e p="SliderManagerEditor.cs" t="Include" />
+              <e p="SwitchManagerEditor.cs" t="Include" />
+              <e p="TooltipManagerEditor.cs" t="Include" />
+              <e p="UIGradientEditor.cs" t="Include" />
+              <e p="UIManagerEditor.cs" t="Include" />
+              <e p="WindowManagerEditor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Read Me.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Animated Icon" t="Include">
+              <e p="AnimatedIconHandler.cs" t="Include" />
+            </e>
+            <e p="Button" t="Include">
+              <e p="ButtonManager.cs" t="Include" />
+              <e p="ButtonManagerBasic.cs" t="Include" />
+              <e p="ButtonManagerBasicIcon.cs" t="Include" />
+              <e p="ButtonManagerBasicWithIcon.cs" t="Include" />
+              <e p="ButtonManagerIcon.cs" t="Include" />
+              <e p="ButtonManagerWithIcon.cs" t="Include" />
+            </e>
+            <e p="Charts" t="Include">
+              <e p="PieChart.cs" t="Include" />
+            </e>
+            <e p="Context Menu" t="Include">
+              <e p="ContextMenuContent.cs" t="Include" />
+              <e p="ContextMenuContentMobile.cs" t="Include" />
+              <e p="ContextMenuManager.cs" t="Include" />
+            </e>
+            <e p="Demo" t="Include">
+              <e p="DemoListShadow.cs" t="Include" />
+              <e p="InputSystemChecker.cs" t="Include" />
+              <e p="LaunchURL.cs" t="Include" />
+            </e>
+            <e p="Dropdown" t="Include">
+              <e p="CustomDropdown.cs" t="Include" />
+              <e p="DropdownMultiSelect.cs" t="Include" />
+            </e>
+            <e p="Fixes" t="Include">
+              <e p="UIElementInFront.cs" t="Include" />
+            </e>
+            <e p="Horizontal Selector" t="Include">
+              <e p="HorizontalSelector.cs" t="Include" />
+            </e>
+            <e p="Input Field" t="Include">
+              <e p="CustomInputField.cs" t="Include" />
+            </e>
+            <e p="Modal Window" t="Include">
+              <e p="ModalWindowManager.cs" t="Include" />
+            </e>
+            <e p="Notification" t="Include">
+              <e p="NotificationManager.cs" t="Include" />
+              <e p="NotificationStacking.cs" t="Include" />
+            </e>
+            <e p="Progress Bar" t="Include">
+              <e p="PBFilled.cs" t="Include" />
+              <e p="ProgressBar.cs" t="Include" />
+            </e>
+            <e p="Rendering" t="Include">
+              <e p="Ripple.cs" t="Include" />
+              <e p="UIGradient.cs" t="Include" />
+            </e>
+            <e p="Slider" t="Include">
+              <e p="RadialSlider.cs" t="Include" />
+              <e p="RangeMaxSlider.cs" t="Include" />
+              <e p="RangeMinSlider.cs" t="Include" />
+              <e p="RangeSlider.cs" t="Include" />
+              <e p="SliderManager.cs" t="Include" />
+            </e>
+            <e p="Switch" t="Include">
+              <e p="SwitchManager.cs" t="Include" />
+            </e>
+            <e p="Toggle" t="Include">
+              <e p="CustomToggle.cs" t="Include" />
+            </e>
+            <e p="Tooltip" t="Include">
+              <e p="TooltipContent.cs" t="Include" />
+              <e p="TooltipManager.cs" t="Include" />
+            </e>
+            <e p="UI Manager" t="Include">
+              <e p="UIManager.cs" t="Include" />
+              <e p="UIManagerAnimatedIcon.cs" t="Include" />
+              <e p="UIManagerButton.cs" t="Include" />
+              <e p="UIManagerButtonEditor.cs" t="Include" />
+              <e p="UIManagerContextMenu.cs" t="Include" />
+              <e p="UIManagerDropdown.cs" t="Include" />
+              <e p="UIManagerHSelector.cs" t="Include" />
+              <e p="UIManagerInputField.cs" t="Include" />
+              <e p="UIManagerModalWindow.cs" t="Include" />
+              <e p="UIManagerNotification.cs" t="Include" />
+              <e p="UIManagerPieChart.cs" t="Include" />
+              <e p="UIManagerProgressBar.cs" t="Include" />
+              <e p="UIManagerProgressBarLoop.cs" t="Include" />
+              <e p="UIManagerProgressBarLoopEditor.cs" t="Include" />
+              <e p="UIManagerScrollbar.cs" t="Include" />
+              <e p="UIManagerSlider.cs" t="Include" />
+              <e p="UIManagerSliderEditor.cs" t="Include" />
+              <e p="UIManagerSwitch.cs" t="Include" />
+              <e p="UIManagerToggle.cs" t="Include" />
+              <e p="UIManagerTooltip.cs" t="Include" />
+              <e p="UIManagerWindowManager.cs" t="Include" />
+            </e>
+            <e p="Window" t="Include">
+              <e p="WindowDragger.cs" t="Include" />
+              <e p="WindowManager.cs" t="Include" />
+              <e p="WindowManagerButton.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PowerUp" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CustomizablePowerUp.cs" t="Include" />
+            <e p="PowerUpManager.cs" t="Include" />
+            <e p="PowerUpRotation.cs" t="Include" />
+            <e p="ScaleParticles.cs" t="Include" />
+            <e p="TakeablePowerUp.cs" t="Include" />
+            <e p="Utility" t="Include">
+              <e p="Singleton.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ProceduralUIImage" t="Include">
+          <e p="Editor" t="Include">
+            <e p="FreeModifierEditor.cs" t="Include" />
+            <e p="ModifierUtility.cs" t="Include" />
+            <e p="ProceduralImageEditor.cs" t="Include" />
+            <e p="ProceduralImageEditorUtility.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="ProceduralImageRuntime.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="ModifierID.cs" t="Include" />
+            </e>
+            <e p="EmptySprite.cs" t="Include" />
+            <e p="Modifiers" t="Include">
+              <e p="CustomPremadeModifier.cs" t="Include" />
+              <e p="FreeModifier.cs" t="Include" />
+              <e p="OnlyOneEdgeModifier.cs" t="Include" />
+              <e p="RoundModifier.cs" t="Include" />
+              <e p="UniformModifier.cs" t="Include" />
+            </e>
+            <e p="ProceduralImage.cs" t="Include" />
+            <e p="ProceduralImageModifier.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="InteractionScript.cs" t="Include" />
+          <e p="TimedObjectDestructor.cs" t="Include" />
+        </e>
+        <e p="Setup ManoMotion SDK PRO 1.4.9.txt" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="Oswald-Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ManoMotion AR.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
